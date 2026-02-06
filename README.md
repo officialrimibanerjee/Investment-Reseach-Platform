@@ -169,10 +169,11 @@ The creators are not responsible for any investment decisions made based on this
 ---
 
 <div align="center">
-  <p>Made by Rimi BANerjee </p>
+  <p>Made by Rimi Banerjee </p>
   <p>
     <a href="https://github.com/Shubhamsaboo/awesome-llm-apps">GitHub</a> •
     <a href="https://streamlit.io/gallery">Streamlit Gallery</a> •
     <a href="https://openai.com">OpenAI</a>
   </p>
 </div>
+
