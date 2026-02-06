@@ -1,6 +1,3 @@
-Here's a comprehensive README file that combines all the essential information:
-
-```markdown
 # 📈 AI Investment Analyst Pro
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
@@ -172,32 +169,10 @@ The creators are not responsible for any investment decisions made based on this
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the AI Investment Analyst Team</p>
+  <p>Made by Rimi BANerjee </p>
   <p>
     <a href="https://github.com/Shubhamsaboo/awesome-llm-apps">GitHub</a> •
     <a href="https://streamlit.io/gallery">Streamlit Gallery</a> •
     <a href="https://openai.com">OpenAI</a>
   </p>
 </div>
-```
-
-## 🎯 Key Sections Included:
-
-1. **Project Overview** - Clear description of what the tool does
-2. **Features** - Comprehensive list of capabilities
-3. **Quick Start Guide** - Step-by-step installation instructions
-4. **Configuration** - How to set up and use the tool
-5. **Usage Guide** - Practical examples and workflows
-6. **Technical Details** - Architecture and dependencies
-7. **Security & Privacy** - Important security information
-8. **Legal Disclaimer** - Clear risk disclosure
-9. **Support & Contribution** - How to get help and contribute
-
-The README is structured to be:
-- **Beginner-friendly** with clear installation steps
-- **Comprehensive** with all necessary information
-- **Professional** with proper disclaimers
-- **Actionable** with practical examples
-- **Visually appealing** with badges and formatting
-
-You can save this as `README.md` in your project directory.
